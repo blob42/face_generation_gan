@@ -4,6 +4,13 @@
 ### Architecture
 ![DCGAN Architecture](dcgan.png?raw=true "DCGAN Architecture")
 
+### Examples
+#### Mnist
+![MNIST](samples/mnist.png?raw=true "MNIST Sample")
+
+#### Celeba
+![Celeba](samples/celeba.png?raw=true "Celeba Samples")
+![Celeba](samples/celeba2.png?raw=true "Celeba Samples")
 
 ### Details
 
@@ -41,3 +48,4 @@
 - Batch Size: 16
 - latent vector dimension: 100
 - dropout: 0.5
+- 1 epoch
