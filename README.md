@@ -33,3 +33,11 @@
 #### CONV3: (256)C(5,1,valid) -> BN -> D -> LR
 #### CONV4: (512)C(5,2,valid) -> BN -> D -> LR
 #### OUT: (flat)F
+
+### Hyperparameters for celeba set
+- Leaky Relu Slope: 0.2
+- Adam Optimizaer beta: 0.5
+- Learning rate: 0.0003
+- Batch Size: 16
+- latent vector dimension: 100
+- dropout: 0.5
